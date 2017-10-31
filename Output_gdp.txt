@@ -1,0 +1,60 @@
++----+------------------------------+
+|Year|Country Name                  |
++----+------------------------------+
+|1961|Uruguay                       |
+|1962|Virgin Islands (U.S.)         |
+|1963|Congo, Dem. Rep.              |
+|1964|Argentina                     |
+|1965|Equatorial Guinea             |
+|1966|Afghanistan                   |
+|1967|Oman                          |
+|1968|Oman                          |
+|1969|Swaziland                     |
+|1970|Nigeria                       |
+|1971|Kuwait                        |
+|1972|Seychelles                    |
+|1973|Uruguay                       |
+|1974|Oman                          |
+|1975|Rwanda                        |
+|1976|Gabon                         |
+|1977|St. Vincent and the Grenadines|
+|1978|Liechtenstein                 |
+|1979|Kuwait                        |
+|1980|Brunei Darussalam             |
+|1981|Guinea-Bissau                 |
+|1982|Uganda                        |
+|1983|Costa Rica                    |
+|1984|Maldives                      |
+|1985|Central African Republic      |
+|1986|Vietnam                       |
+|1987|Uganda                        |
+|1988|Zambia                        |
+|1989|Angola                        |
+|1990|Iraq                          |
+|1991|Gambia, The                   |
+|1992|Kuwait                        |
+|1993|Albania                       |
+|1994|Nicaragua                     |
+|1995|Rwanda                        |
+|1996|Equatorial Guinea             |
+|1997|Equatorial Guinea             |
+|1998|Turkey                        |
+|1999|Equatorial Guinea             |
+|2000|Congo, Dem. Rep.              |
+|2001|Serbia                        |
+|2002|Malawi                        |
+|2003|Myanmar                       |
+|2004|Equatorial Guinea             |
+|2005|Equatorial Guinea             |
+|2006|Ghana                         |
+|2007|Isle of Man                   |
+|2008|Nauru                         |
+|2009|Zimbabwe                      |
+|2010|Nigeria                       |
+|2011|Nauru                         |
+|2012|Nauru                         |
+|2013|Sierra Leone                  |
+|2014|Ethiopia                      |
+|2015|Sudan                         |
+|2016|Iceland                       |
++----+------------------------------+
